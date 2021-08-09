@@ -1,0 +1,29 @@
+table{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
+
+#th1{
+    font-size: 32px;
+    color: rgba(73, 73, 190, 0.781);
+}
+.th1{
+    color:orangered;
+}
+.th2{
+    color: orange;
+}
+.tdadm{
+    color: rgb(221, 26, 26);
+}
+.tdali{
+    color: rgb(212, 212, 33);
+}
+.tdart{
+    color: rgb(228, 78, 19);
+}
